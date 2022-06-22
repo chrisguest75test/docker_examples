@@ -371,6 +371,7 @@ Steps [README.md](./75_skaffold/README.md)
 
 1. You can use --output path to output the image to a folder
 https://docs.docker.com/engine/reference/commandline/build/#custom-build-outputs
+1. quay.io and special labels  
 1. multiple build contexts https://www.docker.com/blog/dockerfiles-now-support-multiple-build-contexts/ 
 1. botb - break out the box image https://github.com/brompwnie/botb
 1. Show how multistage builds work for testing
